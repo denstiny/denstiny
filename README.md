@@ -17,40 +17,40 @@
   <br />  
 
 
-# Repositories
+### Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/nvim-zh/colorful-winsep.nvim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nvim-zh&repo=colorful-winsep.nvim" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/denstiny/karasync.nvim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=denstiny&repo=karasync.nvim" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/denstiny/Chess">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=denstiny&repo=Chess" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/denstiny/Terslation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=denstiny&repo=Terslation" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/denstiny/TelegramSearchBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=denstiny&repo=TelegramSearchBot" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/denstiny/cmp-dictionary-nanny">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=denstiny&repo=cmp-dictionary-nanny" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/denstiny/color-patch.nvim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=denstiny&repo=color-patch.nvim" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/denstiny/styledoc.nvim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=denstiny&repo=styledoc.nvim" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/denstiny/vim-to-do">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=denstiny&repo=vim-to-do" />
 </a>
 
