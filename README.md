@@ -5,7 +5,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=denstiny&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&include_all_commits=true&show_icons=true&card_width=500" />
+  <img height=340 align="center" src="https://github-readme-stats.vercel.app/api?username=denstiny&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&include_all_commits=true&show_icons=true&card_width=800" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denstiny&layout=compact&langs_count=8&card_width=320&theme=transparent" />
